@@ -1,3 +1,2 @@
 # Solving-tasks-for-Python
-# Solving-tasks-for-Python
-#123
+Задание были выполнены с помощью программы Visual Studio
